@@ -6,7 +6,7 @@
 		"type": "git", 
 		"url": "https://github.com/MuriloBada/RedemRP-VSC-Extension.git" 
 	},
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"publisher": "KIFOO",
 	"engines": {
 		"vscode": "^1.28.0"
